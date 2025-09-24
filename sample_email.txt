@@ -1,0 +1,4 @@
+Subject: Urgent: Your Account Has Been Suspended  
+From: security@hdfcbank-alerts.com  
+Body: We detected unusual activity in your account. Please verify your identity immediately to avoid permanent suspension.  
+Link: http://hdfc-verification.ru/login
